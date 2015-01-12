@@ -1,7 +1,9 @@
 HelloWorld
 ==========
 
-First project on GitHub. Testing testing 123.
+First project on GitHub. 
 
-It Works!
+Testing testing 123.
+
+It Works! Editing can even be done online.
 
